@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vinicius-gomes-dev&show_icons=true&theme=vision-friendly-dark" alt="vinicius-gomes-dev's stats"/>
     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-gomes-dev&layout=compact&theme=vision-friendly-dark" alt="vinicius-gomes-dev's most languages"/>
   </p>
-<!--   ![Snake animation](https://github.com/vinicius-gomes-dev/vinicius-gomes-dev/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/vinicius-gomes-dev/vinicius-gomes-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
  
 <br><br>
